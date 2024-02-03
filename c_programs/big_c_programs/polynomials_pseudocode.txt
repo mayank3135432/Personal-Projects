@@ -1,4 +1,0 @@
-f(x)=a0+a1*x^1+a2*x^2+a3*x^3+...an*x^n+...
-A=[a0,a1,a2,a3,...,an,...]T
-
-f(x)=SUM(A[i]*x^i):i=0 to i=n
