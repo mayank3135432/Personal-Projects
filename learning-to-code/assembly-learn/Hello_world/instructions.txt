@@ -1,3 +1,0 @@
-  602  14-01-24 13:00:10 as Helloworld.asm --32 -o Helloworld.o
-  603  14-01-24 13:00:16 gcc -o Helloworld.elf -m32 Helloworld.o -nostdlib
-  604  14-01-24 13:00:21 ./Helloworld.elf
